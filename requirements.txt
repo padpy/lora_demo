@@ -1,0 +1,10 @@
+transformers
+datasets
+peft
+trl
+bitsandbytes
+langchain
+langchain-community
+langchain-cli
+ollama
+protobuf
