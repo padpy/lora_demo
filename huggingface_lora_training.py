@@ -146,10 +146,10 @@ def main():
     )
 
     # Train model
-    # trainer.train()
+    trainer.train()
 
     # Save trained model
-    # trainer.model.save_pretrained(new_model)
+    trainer.model.save_pretrained(new_model)
 
     # Test the model
     logging.set_verbosity(logging.CRITICAL)
